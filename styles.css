@@ -56,6 +56,19 @@ p.imgtitle {
   line-height: 130%;
 }
 
+#myTable .fejlec {
+  background-color: #0A82F7;
+  border-collapse: collapse;
+  color: white;
+
+
+}
+
+#myTable td {
+  border: 1px solid black;
+  padding: 15px;
+}
+
 table {
   border: 3px solid #0A82F7;
 }
@@ -64,3 +77,5 @@ table {
   margin-right: 20px;
   background-color: rgba(227, 225, 233, 0.3);
 }
+
+
