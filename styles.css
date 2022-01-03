@@ -4,6 +4,12 @@ body {
   background-size: cover;
 }
 
+span{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+
+}
+
 #content {
   background-color: rgba(255, 255, 255, 0.6);
   margin-left: auto;
